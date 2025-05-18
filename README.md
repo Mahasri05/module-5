@@ -3,11 +3,13 @@
 To write a C Program to find area of rectangle using pointer.
 
 ## ALGORITHM
+```
 1.	Start the program.
 2.	Read two numbers.
 3.	Calculate the area of rectangle using the formula area=(x)(*y)
 4.	Display the result.
 5.	Stop the program.
+```
 
 ## PROGRAM
 ```
@@ -47,13 +49,14 @@ Thus the program to find area of rectangle using pointer has been executed succe
 To write a C Program to print 'WELCOME' using malloc() and free().
 
 ## ALGORITHM
+```
 1.	Start the program.
 2.	Read a string variable.
 3.	Allocate memory using malloc().
 4.	Display the string.
 5.	Remove the allocated memory using free().
 6.	Stop the program.
-
+```
 ## PROGRAM
 ```
 #include <stdio.h>
@@ -100,12 +103,12 @@ Thus the program to print 'WELCOME' using malloc() and free() has been executed 
 To write a C Program to store the student information and display it using structure.
 
 ## ALGORITHM
-
+```
 1.	Start the program.
 2.	Create a student structure with name, roll number and marks as members.
 3.	Using structure variable read the structure members and print them.
 4.	Stop the program.
-
+```
 ## PROGRAM
 ```
 
@@ -156,13 +159,13 @@ Thus the program to store the student information and display it using structure
 To write a C Program to read and store the data of 3 employees and calculate their Gross Salary using the concept of structure.
 
 ## ALGORITHM
-
+```
 1.	Start the program.
 2.	Create an employee structure with name, id and salary details as members.
 3.	Using structure variable read the structure members.
 4.	Calculate the gross salary and print the details.
 5.	Stop the program.
-
+```
 ## PROGRAM
 ```
 #include <stdio.h>
@@ -198,7 +201,7 @@ Thus the C program to read and store the data of 3 employees and calculate their
 Create a C program to calculate the total and average of student using structure.
 
 ## ALGORITHM 
-
+```
 Step 1: Start the program.
 Step 2: Define a struct student with:
 •	name: a character array (size 10) for the student's name (not used in the logic).
@@ -223,7 +226,7 @@ Step 6: Override Total (Hardcoded):
 Step 7: Output Loop (i = 0 to 1):
 •	Print s[i].total for each student.
 Step 8: End the program.
-
+```
 ## PROGRAM
 ```
 #include <stdio.h>
